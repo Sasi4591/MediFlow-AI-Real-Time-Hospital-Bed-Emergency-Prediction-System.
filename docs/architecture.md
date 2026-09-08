@@ -26,3 +26,7 @@ flowchart TD
 
 ## Data Flow & Event Bus
 Telemetry flows through Kafka topics into the authoritative digital twin with atomic state locking.
+
+
+## Digital Twin & Inference Lifecycle
+The authoritative hospital digital twin manages beds, ICU units, and queues with thread-safe atomic mutex locking.
