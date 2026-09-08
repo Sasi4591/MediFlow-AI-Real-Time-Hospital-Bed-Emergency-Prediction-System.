@@ -13,3 +13,7 @@ Kafka topics partition on patient hospital unit IDs to ensure sequential orderin
 
 ## Collection Pruning Policy
 Capped collections and automated maintenance keep MongoDB index memory small.
+
+
+## Coherent Stream Aggregation
+StreamAggregator consolidates multi-topic events into single coherent tick batches under an atomic mutex lock.
