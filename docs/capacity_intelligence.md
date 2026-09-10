@@ -16,3 +16,7 @@
 
 ## Model Tuning & Hyperparameters
 Prophet models use additive yearly seasonality with multiplicative weekly regressors.
+
+
+## 24-Hour Demand Forecast & Dual-Axis Visualization
+Forecasts integrate live digital twin bed occupancy and diurnal surge curves (morning intake and evening ER spikes) rendered on independent dual Y-axes.
