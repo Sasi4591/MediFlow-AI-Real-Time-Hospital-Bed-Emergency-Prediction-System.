@@ -15,3 +15,7 @@ MediFlow AI combines a high-performance Glassmorphic Dashboard with the elegant 
 
 ## Glassmorphic Theme Palette
 Defines frosted glass translucent backgrounds with CSS backdrop-filter blur(16px).
+
+
+## Typography Scale Specifications (+2px)
+All UI surfaces implement an elevated typography scale (+2px / +0.125rem) preserving visual hierarchy and TemplateMo Catalyst styling.
